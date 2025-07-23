@@ -40,7 +40,7 @@ while True:
             print(f"ลบงาน: {delete_task['taskname']} แล้ว")
             
     elif choice == '4':
-        print(" ให้สรุปจำนวนงานแต่ละประเภท:")
+        print("สรุปจำนวนงานแต่ละประเภท:")
         
         count_genre = {}
         
